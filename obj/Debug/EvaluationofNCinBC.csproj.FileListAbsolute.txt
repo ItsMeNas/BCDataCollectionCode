@@ -1,0 +1,22 @@
+C:\Users\Nizam A Shariff\source\repos\New folder\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.csprojAssemblyReference.cache
+C:\Users\Nizam A Shariff\source\repos\New folder\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.FrmMain.resources
+C:\Users\Nizam A Shariff\source\repos\New folder\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.Properties.Resources.resources
+C:\Users\Nizam A Shariff\source\repos\New folder\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.csproj.GenerateResource.cache
+C:\Users\Nizam A Shariff\source\repos\New folder\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.csproj.CoreCompileInputs.cache
+C:\Users\Nizam A Shariff\source\repos\New folder\EvaluationofNCinBC\bin\Debug\EvaluationofNCinBC.exe.config
+C:\Users\Nizam A Shariff\source\repos\New folder\EvaluationofNCinBC\bin\Debug\EvaluationofNCinBC.exe
+C:\Users\Nizam A Shariff\source\repos\New folder\EvaluationofNCinBC\bin\Debug\EvaluationofNCinBC.pdb
+C:\Users\Nizam A Shariff\source\repos\New folder\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.exe
+C:\Users\Nizam A Shariff\source\repos\New folder\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.pdb
+C:\Users\Nizam A Shariff\source\repos\EvaluationofNCinBC\bin\Debug\EvaluationofNCinBC.exe
+C:\Users\Nizam A Shariff\source\repos\EvaluationofNCinBC\bin\Debug\EvaluationofNCinBC.pdb
+C:\Users\Nizam A Shariff\Desktop\BC_Data\EvaluationofNCinBC.exe
+C:\Users\Nizam A Shariff\source\repos\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.FrmMain.resources
+C:\Users\Nizam A Shariff\source\repos\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.Properties.Resources.resources
+C:\Users\Nizam A Shariff\source\repos\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.csproj.GenerateResource.cache
+C:\Users\Nizam A Shariff\source\repos\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.csproj.CoreCompileInputs.cache
+C:\Users\Nizam A Shariff\source\repos\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.exe
+C:\Users\Nizam A Shariff\source\repos\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.pdb
+C:\Users\Nizam A Shariff\Desktop\BC_Data\EvaluationofNCinBC.pdb
+C:\Users\Nizam A Shariff\source\repos\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.frmFullList.resources
+C:\Users\Nizam A Shariff\source\repos\EvaluationofNCinBC\obj\Debug\EvaluationofNCinBC.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+ALTER TABLE BCPatientInfo ALTER COLUMN ID COUNTER(1,1);
+
+
+
+<add name="BCPatentDbConString"
+            connectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\BCPatientDatabase.mdb"
+            providerName="System.Data.OleDb" />
